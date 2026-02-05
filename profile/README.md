@@ -67,7 +67,7 @@
 
 ### `PB와 랭킹 제품 비교`
 
-| <p align="center"><img src="./assets/chart/chart_4.png" alt="랭킹 Top 10 종합"></p>  |
+| <p align="center"><img src="./assets/chart/chart_4-1.png" alt="랭킹 Top 10 종합"></p>  |
 |---|
 |PB와 랭킹 제품의 **프로모션 구성/변화**를 비교해 PB는 **세일 중심(다양성 제한)**, 랭킹 제품은 **오늘드림·쿠폰·증정** 등 **다채로운 조합**으로 운영되는 차이를 보여주며 **PB 프로모션 다변화 필요성**을 도출합니다.|
 
